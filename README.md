@@ -11,7 +11,7 @@ I created 3 projected related to this.
 # 1. Intro DarkMode<br />
 # 2. Setting<br />
 # 3. Review code <br />
-# #4. Demo in simulator
+# 4. Demo in simulator
 ![Alt text](https://github.com/NemSothea/DarkMode-LightMode/blob/main/DemoApp.gif)
 
 # 5. Reference
